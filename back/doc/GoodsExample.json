@@ -1,0 +1,1420 @@
+[{
+  "_id": {
+    "$oid": "60a45b0915ae3b8efcf6f495"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung 13 XA0.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung 13 XA0.jpeg",
+      "fileName": "Samsung 13 XA0.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung 13 XA1.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung 13 XA1.jpeg",
+      "fileName": "Samsung 13 XA1.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung 13 XA2.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung 13 XA2.jpeg",
+      "fileName": "Samsung 13 XA2.jpeg"
+    }
+  ],
+  "count": 4,
+  "name": "Samsung 13 XA",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "TV",
+  "price": 400000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45b4e15ae3b8efcf6f496"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi Mi310.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Xiaomi Mi310.jpeg",
+      "fileName": "Xiaomi Mi310.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi Mi311.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Xiaomi Mi311.jpeg",
+      "fileName": "Xiaomi Mi311.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi Mi312.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Xiaomi Mi312.jpeg",
+      "fileName": "Xiaomi Mi312.jpeg"
+    }
+  ],
+  "count": 5,
+  "name": "Xiaomi Mi31",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "TV",
+  "price": 250000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45b7d15ae3b8efcf6f497"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Apple TV 30.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Apple TV 30.jpeg",
+      "fileName": "Apple TV 30.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Apple TV 31.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Apple TV 31.jpeg",
+      "fileName": "Apple TV 31.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Apple TV 32.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Apple TV 32.jpeg",
+      "fileName": "Apple TV 32.jpeg"
+    }
+  ],
+  "count": 10,
+  "name": "Apple TV 3",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "TV",
+  "price": 1000000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45bcc15ae3b8efcf6f498"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 80.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPhone 80.jpeg",
+      "fileName": "iPhone 80.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 81.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPhone 81.jpeg",
+      "fileName": "iPhone 81.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 82.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPhone 82.jpeg",
+      "fileName": "iPhone 82.jpeg"
+    }
+  ],
+  "count": 5,
+  "name": "iPhone 8",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "Phones",
+  "price": 300000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45bfa15ae3b8efcf6f499"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 110.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPhone 110.jpeg",
+      "fileName": "iPhone 110.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 111.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPhone 111.jpeg",
+      "fileName": "iPhone 111.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 112.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPhone 112.jpeg",
+      "fileName": "iPhone 112.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 113.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPhone 113.jpeg",
+      "fileName": "iPhone 113.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 114.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPhone 114.jpeg",
+      "fileName": "iPhone 114.jpeg"
+    }
+  ],
+  "count": 10,
+  "name": "iPhone 11",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "Phones",
+  "price": 600000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45c2a15ae3b8efcf6f49a"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Note 80.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung Note 80.jpeg",
+      "fileName": "Samsung Note 80.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Note 81.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung Note 81.jpeg",
+      "fileName": "Samsung Note 81.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Note 82.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung Note 82.jpeg",
+      "fileName": "Samsung Note 82.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Note 83.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung Note 83.jpeg",
+      "fileName": "Samsung Note 83.jpeg"
+    }
+  ],
+  "count": 11,
+  "name": "Samsung Note 8",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "Phones",
+  "price": 500000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45c5a15ae3b8efcf6f49b"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Note 100.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung Note 100.jpeg",
+      "fileName": "Samsung Note 100.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Note 101.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung Note 101.jpeg",
+      "fileName": "Samsung Note 101.jpeg"
+    }
+  ],
+  "count": 3,
+  "name": "Samsung Note 10",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "Phones",
+  "price": 650000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45c9a15ae3b8efcf6f49c"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone charging0.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPhone charging0.jpeg",
+      "fileName": "iPhone charging0.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone charging1.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPhone charging1.jpeg",
+      "fileName": "iPhone charging1.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone charging2.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPhone charging2.jpeg",
+      "fileName": "iPhone charging2.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone charging3.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPhone charging3.jpeg",
+      "fileName": "iPhone charging3.jpeg"
+    }
+  ],
+  "count": 25,
+  "name": "iPhone charging",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "Chargings",
+  "price": 15000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45cda15ae3b8efcf6f49d"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung charging0.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung charging0.jpeg",
+      "fileName": "Samsung charging0.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung charging1.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung charging1.jpeg",
+      "fileName": "Samsung charging1.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung charging2.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung charging2.jpeg",
+      "fileName": "Samsung charging2.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung charging3.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung charging3.jpeg",
+      "fileName": "Samsung charging3.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung charging4.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung charging4.jpeg",
+      "fileName": "Samsung charging4.jpeg"
+    }
+  ],
+  "count": 43,
+  "name": "Samsung charging",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "Chargings",
+  "price": 8000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45d2515ae3b8efcf6f49e"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro0.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPad Pro0.jpeg",
+      "fileName": "iPad Pro0.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro1.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPad Pro1.jpeg",
+      "fileName": "iPad Pro1.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro2.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPad Pro2.jpeg",
+      "fileName": "iPad Pro2.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro3.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPad Pro3.jpeg",
+      "fileName": "iPad Pro3.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro4.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPad Pro4.jpeg",
+      "fileName": "iPad Pro4.jpeg"
+    }
+  ],
+  "count": 5,
+  "name": "iPad Pro",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "Планшеты",
+  "price": 450000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45d9415ae3b8efcf6f49f"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Galaxy Tab S100.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung Galaxy Tab S100.jpeg",
+      "fileName": "Samsung Galaxy Tab S100.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Galaxy Tab S101.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung Galaxy Tab S101.jpeg",
+      "fileName": "Samsung Galaxy Tab S101.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Galaxy Tab S102.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung Galaxy Tab S102.jpeg",
+      "fileName": "Samsung Galaxy Tab S102.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Galaxy Tab S103.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Samsung Galaxy Tab S103.jpeg",
+      "fileName": "Samsung Galaxy Tab S103.jpeg"
+    }
+  ],
+  "count": 23,
+  "name": "Samsung Galaxy Tab S10",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "Планшеты",
+  "price": 300000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45dc415ae3b8efcf6f4a0"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro XDR0.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPad Pro XDR0.jpeg",
+      "fileName": "iPad Pro XDR0.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro XDR1.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPad Pro XDR1.jpeg",
+      "fileName": "iPad Pro XDR1.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro XDR2.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPad Pro XDR2.jpeg",
+      "fileName": "iPad Pro XDR2.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro XDR3.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPad Pro XDR3.jpeg",
+      "fileName": "iPad Pro XDR3.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro XDR4.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/iPad Pro XDR4.jpeg",
+      "fileName": "iPad Pro XDR4.jpeg"
+    }
+  ],
+  "count": 6,
+  "name": "iPad Pro XDR",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "Планшеты",
+  "price": 900000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45e2715ae3b8efcf6f4a1"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi Mi0.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Xiaomi Mi0.jpeg",
+      "fileName": "Xiaomi Mi0.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi Mi1.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Xiaomi Mi1.jpeg",
+      "fileName": "Xiaomi Mi1.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi Mi2.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Xiaomi Mi2.jpeg",
+      "fileName": "Xiaomi Mi2.jpeg"
+    }
+  ],
+  "count": 22,
+  "name": "Xiaomi Mi",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "Notebooks",
+  "price": 450000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45e6515ae3b8efcf6f4a2"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi 90.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Xiaomi 90.jpeg",
+      "fileName": "Xiaomi 90.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi 91.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Xiaomi 91.jpeg",
+      "fileName": "Xiaomi 91.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi 92.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Xiaomi 92.jpeg",
+      "fileName": "Xiaomi 92.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi 93.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/Xiaomi 93.jpeg",
+      "fileName": "Xiaomi 93.jpeg"
+    }
+  ],
+  "count": 12,
+  "name": "Xiaomi 9",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "Notebooks",
+  "price": 240000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45ea115ae3b8efcf6f4a3"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Air0.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/MacBook Air0.jpeg",
+      "fileName": "MacBook Air0.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Air1.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/MacBook Air1.jpeg",
+      "fileName": "MacBook Air1.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Air2.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/MacBook Air2.jpeg",
+      "fileName": "MacBook Air2.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Air3.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/MacBook Air3.jpeg",
+      "fileName": "MacBook Air3.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Air4.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/MacBook Air4.jpeg",
+      "fileName": "MacBook Air4.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Air5.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/MacBook Air5.jpeg",
+      "fileName": "MacBook Air5.jpeg"
+    }
+  ],
+  "count": 13,
+  "name": "MacBook Air",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "Notebooks",
+  "price": 400000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a45ee815ae3b8efcf6f4a4"
+  },
+  "images": [
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Pro0.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/MacBook Pro0.jpeg",
+      "fileName": "MacBook Pro0.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Pro1.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/MacBook Pro1.jpeg",
+      "fileName": "MacBook Pro1.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Pro2.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/MacBook Pro2.jpeg",
+      "fileName": "MacBook Pro2.jpeg"
+    },
+    {
+      "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Pro3.jpeg",
+      "clientPath": "http://localhost:3000/storage/download/MacBook Pro3.jpeg",
+      "fileName": "MacBook Pro3.jpeg"
+    }
+  ],
+  "count": 32,
+  "name": "MacBook Pro",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eligendi accusantium fugiat error quod laudantium eos, porro ullam quas rerum. Placeat est dolorum, nihil atque rerum nisi? Cum, expedita molestiae.",
+  "category": "Notebooks",
+  "price": 1200000,
+  "info": [
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    },
+    {
+      "name": "Видео",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        }
+      ]
+    },
+    {
+      "name": "Дисплей",
+      "infoItems": [
+        {
+          "title": "Диагональ дисплея, дюйм",
+          "value": "14"
+        },
+        {
+          "title": "Серия процессора",
+          "value": "Athion Gold"
+        },
+        {
+          "title": "Модель процессора",
+          "value": "3150U"
+        },
+        {
+          "title": "Обьем оперативной памяти",
+          "value": "128 ГБ"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+}]
