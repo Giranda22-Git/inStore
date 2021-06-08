@@ -88,7 +88,7 @@ export default {
     },
     created(){
         var self = this
-        axios.get(`http://localhost:3000/storage/findById/${this.$route.params.id}`)
+        axios.get(`${self.$store.state.BackEndUrl}/storage/findById/${this.$route.params.id}`)
         .then(response => {
           if (response.data !== null) {
             self.Product = response.data;

@@ -3,7 +3,6 @@
     <MyHeader />
     <hr style = "width: 70vw"/>
     <div class="app3">
-      true
       <router-view/>
     </div>
     <MyFooter />

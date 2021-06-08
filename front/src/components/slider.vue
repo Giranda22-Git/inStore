@@ -51,7 +51,7 @@ export default {
       },
       async getSliders(){
         var self = this
-        axios.get('http://localhost:3000/storage')
+        axios.get(`${this.$store.state.BackEndUrl}/storage`)
         .then(response => {
           if (response.data !== null) {
             // Shuffle array
@@ -85,7 +85,7 @@ export default {
         });
       },
       async GetFilters(){
-        await axios.get('http://localhost:3000/storage/categories')
+        await axios.get(`${this.$store.state.BackEndUrl}/storage/categories`)
         .then(response => {
           if (response.data !== null) {
             console.log(response.data);

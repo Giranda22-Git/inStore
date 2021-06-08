@@ -5,11 +5,6 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-  },
-  mutations: {
-  },
-  actions: {
-  },
-  modules: {
+    BackEndUrl: "http://api.in-store.host"
   }
 })

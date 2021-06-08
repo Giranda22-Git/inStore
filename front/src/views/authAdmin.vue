@@ -129,7 +129,7 @@ export default {
     }),
     async mounted(){
         var self = this
-        await axios.get('http://localhost:3000/storage/categories')
+        await axios.get(`${this.$store.state.BackEndUrl}/storage/categories`)
         .then(response => {
             if (response.data !== null) {
             self.resDataCategory = response.data
@@ -144,7 +144,7 @@ export default {
     methods: {
         async updateProduct(Id){
             console.log(this.Product);
-            await axios.put('http://localhost:3000/storage',
+            await axios.put(`${this.$store.state.BackEndUrl}/storage`,
             {
                 "id": Id,
                 "update": this.Product
@@ -158,7 +158,7 @@ export default {
         },
         ChangeItemOption(Id){
             var self = this
-            axios.get(`http://localhost:3000/storage/findById/${Id}`)
+            axios.get(`${this.$store.state.BackEndUrl}/storage/findById/${Id}`)
             .then(response => {
                 if (response.data !== null) {
                     self.Product = response.data;
@@ -172,7 +172,7 @@ export default {
         },
         async deleteItem(Itemid){
             var self = this
-            axios.delete("http://localhost:3000/storage/delete/id", 
+            axios.delete(`${this.$store.state.BackEndUrl}/storage/delete/id`, 
             { 
               data: 
                 { 
@@ -196,7 +196,7 @@ export default {
             })
         },
         async getProducts(){
-            await axios.get('http://localhost:3000/storage')
+            await axios.get(`${this.$store.state.BackEndUrl}/storage`)
             .then(response => {
             if (response.data !== null) {
                 this.Products = response.data
@@ -226,7 +226,7 @@ export default {
                 formData.append('count', this.count)
                 console.log(JSON.stringify(this.Settings), 'a');
                 formData.append('info', JSON.stringify(this.Settings))
-                await axios.post('http://localhost:3000/storage', formData,
+                await axios.post(`${this.$store.state.BackEndUrl}/storage`, formData,
                 {
                     headers: {
                     'Content-Type': 'multipart/form-data'
@@ -263,7 +263,7 @@ export default {
                 confirmButtonText: 'Look up',
                 showLoaderOnConfirm: true,
                 preConfirm: (login) => {
-                    axios.post(`http://localhost:3000/admin/authorization`,{
+                    axios.post(`${this.$store.state.BackEndUrl}/admin/authorization`,{
                         Login: 'admin',
                         Password: login
                     })

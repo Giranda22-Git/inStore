@@ -64,7 +64,7 @@ export default {
     },
     methods:{
       async sliderCat(Innerfilter){
-        await axios.post('http://localhost:3000/storage/search', {
+        await axios.post(`${this.$store.state.BackEndUrl}/storage/search`, {
           filter: Innerfilter
         })
         .then(response => {
@@ -82,7 +82,7 @@ export default {
       },
       async getItemsInformation(){
         this.SearchName = document.getElementById('input').value
-        await axios.post('http://localhost:3000/storage/search', {
+        await axios.post(`${this.$store.state.BackEndUrl}/storage/search`, {
           query: this.SearchName
         })
         .then(response => {

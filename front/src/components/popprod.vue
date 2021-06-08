@@ -24,7 +24,7 @@ export default {
     },
     mounted(){
         var self = this
-        axios.get('http://localhost:3000/storage')
+        axios.get(`${this.$store.state.BackEndUrl}/storage`)
         .then(response => {
           if (response.data !== null) {
             console.log(response.data);
