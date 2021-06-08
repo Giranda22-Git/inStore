@@ -5,17 +5,17 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung 13 XA0.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung 13 XA0.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung 13 XA0.jpeg",
       "fileName": "Samsung 13 XA0.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung 13 XA1.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung 13 XA1.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung 13 XA1.jpeg",
       "fileName": "Samsung 13 XA1.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung 13 XA2.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung 13 XA2.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung 13 XA2.jpeg",
       "fileName": "Samsung 13 XA2.jpeg"
     }
   ],
@@ -89,17 +89,17 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi Mi310.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Xiaomi Mi310.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Xiaomi Mi310.jpeg",
       "fileName": "Xiaomi Mi310.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi Mi311.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Xiaomi Mi311.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Xiaomi Mi311.jpeg",
       "fileName": "Xiaomi Mi311.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi Mi312.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Xiaomi Mi312.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Xiaomi Mi312.jpeg",
       "fileName": "Xiaomi Mi312.jpeg"
     }
   ],
@@ -173,17 +173,17 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Apple TV 30.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Apple TV 30.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Apple TV 30.jpeg",
       "fileName": "Apple TV 30.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Apple TV 31.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Apple TV 31.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Apple TV 31.jpeg",
       "fileName": "Apple TV 31.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Apple TV 32.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Apple TV 32.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Apple TV 32.jpeg",
       "fileName": "Apple TV 32.jpeg"
     }
   ],
@@ -257,17 +257,17 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 80.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPhone 80.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPhone 80.jpeg",
       "fileName": "iPhone 80.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 81.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPhone 81.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPhone 81.jpeg",
       "fileName": "iPhone 81.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 82.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPhone 82.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPhone 82.jpeg",
       "fileName": "iPhone 82.jpeg"
     }
   ],
@@ -341,27 +341,27 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 110.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPhone 110.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPhone 110.jpeg",
       "fileName": "iPhone 110.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 111.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPhone 111.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPhone 111.jpeg",
       "fileName": "iPhone 111.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 112.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPhone 112.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPhone 112.jpeg",
       "fileName": "iPhone 112.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 113.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPhone 113.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPhone 113.jpeg",
       "fileName": "iPhone 113.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone 114.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPhone 114.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPhone 114.jpeg",
       "fileName": "iPhone 114.jpeg"
     }
   ],
@@ -435,22 +435,22 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Note 80.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung Note 80.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung Note 80.jpeg",
       "fileName": "Samsung Note 80.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Note 81.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung Note 81.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung Note 81.jpeg",
       "fileName": "Samsung Note 81.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Note 82.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung Note 82.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung Note 82.jpeg",
       "fileName": "Samsung Note 82.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Note 83.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung Note 83.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung Note 83.jpeg",
       "fileName": "Samsung Note 83.jpeg"
     }
   ],
@@ -524,12 +524,12 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Note 100.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung Note 100.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung Note 100.jpeg",
       "fileName": "Samsung Note 100.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Note 101.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung Note 101.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung Note 101.jpeg",
       "fileName": "Samsung Note 101.jpeg"
     }
   ],
@@ -603,22 +603,22 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone charging0.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPhone charging0.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPhone charging0.jpeg",
       "fileName": "iPhone charging0.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone charging1.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPhone charging1.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPhone charging1.jpeg",
       "fileName": "iPhone charging1.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone charging2.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPhone charging2.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPhone charging2.jpeg",
       "fileName": "iPhone charging2.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPhone charging3.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPhone charging3.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPhone charging3.jpeg",
       "fileName": "iPhone charging3.jpeg"
     }
   ],
@@ -692,27 +692,27 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung charging0.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung charging0.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung charging0.jpeg",
       "fileName": "Samsung charging0.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung charging1.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung charging1.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung charging1.jpeg",
       "fileName": "Samsung charging1.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung charging2.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung charging2.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung charging2.jpeg",
       "fileName": "Samsung charging2.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung charging3.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung charging3.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung charging3.jpeg",
       "fileName": "Samsung charging3.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung charging4.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung charging4.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung charging4.jpeg",
       "fileName": "Samsung charging4.jpeg"
     }
   ],
@@ -786,27 +786,27 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro0.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPad Pro0.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPad Pro0.jpeg",
       "fileName": "iPad Pro0.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro1.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPad Pro1.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPad Pro1.jpeg",
       "fileName": "iPad Pro1.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro2.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPad Pro2.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPad Pro2.jpeg",
       "fileName": "iPad Pro2.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro3.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPad Pro3.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPad Pro3.jpeg",
       "fileName": "iPad Pro3.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro4.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPad Pro4.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPad Pro4.jpeg",
       "fileName": "iPad Pro4.jpeg"
     }
   ],
@@ -880,22 +880,22 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Galaxy Tab S100.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung Galaxy Tab S100.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung Galaxy Tab S100.jpeg",
       "fileName": "Samsung Galaxy Tab S100.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Galaxy Tab S101.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung Galaxy Tab S101.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung Galaxy Tab S101.jpeg",
       "fileName": "Samsung Galaxy Tab S101.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Galaxy Tab S102.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung Galaxy Tab S102.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung Galaxy Tab S102.jpeg",
       "fileName": "Samsung Galaxy Tab S102.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Samsung Galaxy Tab S103.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Samsung Galaxy Tab S103.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Samsung Galaxy Tab S103.jpeg",
       "fileName": "Samsung Galaxy Tab S103.jpeg"
     }
   ],
@@ -969,27 +969,27 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro XDR0.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPad Pro XDR0.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPad Pro XDR0.jpeg",
       "fileName": "iPad Pro XDR0.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro XDR1.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPad Pro XDR1.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPad Pro XDR1.jpeg",
       "fileName": "iPad Pro XDR1.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro XDR2.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPad Pro XDR2.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPad Pro XDR2.jpeg",
       "fileName": "iPad Pro XDR2.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro XDR3.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPad Pro XDR3.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPad Pro XDR3.jpeg",
       "fileName": "iPad Pro XDR3.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/iPad Pro XDR4.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/iPad Pro XDR4.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/iPad Pro XDR4.jpeg",
       "fileName": "iPad Pro XDR4.jpeg"
     }
   ],
@@ -1063,17 +1063,17 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi Mi0.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Xiaomi Mi0.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Xiaomi Mi0.jpeg",
       "fileName": "Xiaomi Mi0.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi Mi1.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Xiaomi Mi1.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Xiaomi Mi1.jpeg",
       "fileName": "Xiaomi Mi1.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi Mi2.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Xiaomi Mi2.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Xiaomi Mi2.jpeg",
       "fileName": "Xiaomi Mi2.jpeg"
     }
   ],
@@ -1147,22 +1147,22 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi 90.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Xiaomi 90.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Xiaomi 90.jpeg",
       "fileName": "Xiaomi 90.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi 91.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Xiaomi 91.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Xiaomi 91.jpeg",
       "fileName": "Xiaomi 91.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi 92.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Xiaomi 92.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Xiaomi 92.jpeg",
       "fileName": "Xiaomi 92.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/Xiaomi 93.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/Xiaomi 93.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/Xiaomi 93.jpeg",
       "fileName": "Xiaomi 93.jpeg"
     }
   ],
@@ -1236,32 +1236,32 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Air0.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/MacBook Air0.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/MacBook Air0.jpeg",
       "fileName": "MacBook Air0.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Air1.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/MacBook Air1.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/MacBook Air1.jpeg",
       "fileName": "MacBook Air1.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Air2.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/MacBook Air2.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/MacBook Air2.jpeg",
       "fileName": "MacBook Air2.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Air3.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/MacBook Air3.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/MacBook Air3.jpeg",
       "fileName": "MacBook Air3.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Air4.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/MacBook Air4.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/MacBook Air4.jpeg",
       "fileName": "MacBook Air4.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Air5.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/MacBook Air5.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/MacBook Air5.jpeg",
       "fileName": "MacBook Air5.jpeg"
     }
   ],
@@ -1335,22 +1335,22 @@
   "images": [
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Pro0.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/MacBook Pro0.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/MacBook Pro0.jpeg",
       "fileName": "MacBook Pro0.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Pro1.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/MacBook Pro1.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/MacBook Pro1.jpeg",
       "fileName": "MacBook Pro1.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Pro2.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/MacBook Pro2.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/MacBook Pro2.jpeg",
       "fileName": "MacBook Pro2.jpeg"
     },
     {
       "systemPath": "/Users/dimash/Documents/GitHub/mag/back/endPoints/tmp/MacBook Pro3.jpeg",
-      "clientPath": "http://localhost:3000/storage/download/MacBook Pro3.jpeg",
+      "clientPath": "http://api.in-store.host/storage/download/MacBook Pro3.jpeg",
       "fileName": "MacBook Pro3.jpeg"
     }
   ],
