@@ -5,7 +5,7 @@ const tmpDir = __dirname + '/tmp/'
 const uploadDir = __dirname + '/tmp/'
 const multer = require('multer')
 const upload = multer({ dest: './endPoints/tmp/' })
-const URL = 'http://localhost:3000/storage'
+const URL = 'http://api.in-store.host/storage'
 
 const fs = require('fs')
 
