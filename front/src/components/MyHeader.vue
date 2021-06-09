@@ -1,7 +1,7 @@
 <template>
     <div class = "Header">
         <div class="logo" style="font-weight: 600">
-            <a href='/'>inSales</a>
+            <a href='/'>inStore</a>
         </div>
         <div class="place">
             <div style = "display: flex; align-items: center; justify-content: flex-end">
