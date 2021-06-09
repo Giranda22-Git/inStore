@@ -172,12 +172,28 @@ img{
     margin: 20px 0 20px 0;
     font-size: 1.4em;
 }
-@media (max-width: 400px) {
+@media (max-width: 550px) {
+    hr{
+        width: 350px;
+    }
+    .ITEM{
+        width: 350px;
+    }
+}
+@media (max-width: 450px) {
     hr{
         width: 300px;
     }
     .ITEM{
         width: 300px;
+    }
+}
+@media (max-width: 350px) {
+    hr{
+        width: 250px;
+    }
+    .ITEM{
+        width: 250px;
     }
 }
 .swiper-container {
