@@ -27,8 +27,9 @@ body{
   overflow: hidden;
 }
 #app2{
-  background: url('./assets/Fon.jpg');
-  background-size: cover;
+  background: url('./assets/Fon.jpg') repeat;
+  height: 100%;
+
   overflow: hidden;
 }
 </style>
