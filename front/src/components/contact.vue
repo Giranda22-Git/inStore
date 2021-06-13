@@ -1,9 +1,9 @@
 <template>
     <div class="MainAbout">
         <div class="Maintext">
-            <div class="textItem">Телефон: +7(707) 7777777</div>
-            <div class="textItem">E-mail: rand.mail.ru</div>
-            <div class="textItem">Адрес: ул. Центральная №1</div>
+            <div class="textItem">Телефон: <a href="tel:+77770582248">+7(777) 058-22-48</a>,<br><a href="tel:+7771444409">+7(771) 444-44-09</a></div>
+            <div class="textItem">E-mail: igor.ignatiev2506@gmail.com</div>
+            <div class="textItem">Адрес: Жарокова 290, Утеген батыра 112</div>
             <div class="textItem">Следите за нами:</div>
             <div class="textItem">
                 <div class="ph">
@@ -14,12 +14,15 @@
             </div>
         </div>
         <div class="photos">
-            <div style="width: 100%; height: 100%"><iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>
+            <div style="width: 100%; height: 100%"><div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=%D0%96%D0%B0%D1%80%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0%20290+(%D0%96%D0%B0%D1%80%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0%20290)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div></div>
         </div>
     </div>
 </template>
 
 <style scoped>
+.textItem{
+    text-align: center;
+}
 .ph{
     display: flex;
     flex-direction: row;
@@ -43,9 +46,10 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 .photos{
-    width: 60%;
+    width: 50%;
     height: 300px;
 }
 .textItem:not(:first-child){
