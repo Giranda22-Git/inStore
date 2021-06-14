@@ -27,14 +27,12 @@ export default {
         axios.get(`${this.$store.state.BackEndUrl}/storage`)
         .then(response => {
           if (response.data !== null) {
-            console.log(response.data);
             // Shuffle array
             const shuffled = response.data.sort(() => 0.5 - Math.random());
 
             // Get sub-array of first 7 elements after shuffled
             let selected = shuffled.slice(0, 7);
             this.Products = selected
-            console.log(this.Products);
           }
         })
         .catch(err => {

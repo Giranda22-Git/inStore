@@ -54,16 +54,12 @@ export default {
     }),
     mounted(){
         this.Items = this.items
-        console.log(this.items);
     },
     methods:{
         FilterPrice(){
             var Fnum = document.querySelectorAll('input')[1].value
             var Snum = document.querySelectorAll('input')[2].value
-            console.log(Fnum);
-            console.log(Snum);
             this.Items = this.items.filter( el => el.price >= Number(Fnum) && el.price <= Number(Snum))
-            console.log(this.Items);
         },
         FilterSubStr(){
             var Ftext = document.querySelectorAll('input')[3].value

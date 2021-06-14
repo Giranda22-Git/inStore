@@ -88,7 +88,6 @@ export default {
         await axios.get(`${this.$store.state.BackEndUrl}/storage/categories`)
         .then(response => {
           if (response.data !== null) {
-            console.log(response.data);
             this.Filters = response.data
           }
         })
@@ -162,7 +161,7 @@ svg{
   padding: 5px 40px 5px 5px;
   height: 20px;
   width: 40vw;
-  background: url('../assets/logo.png') no-repeat 100%;
+  background: url('../assets/Logo.png') no-repeat 100%;
   background-size: auto 90%;
   border: 1px solid #d14711;
   border-radius: 3px;
