@@ -2,7 +2,7 @@
   <div class="CatSlid">
     <div class="categories">
       <svg @click='up' class = 'firstSvg' version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 443.52 443.52" style="transform: rotate(90deg); enable-background:new 0 0 443.52 443.52;" xml:space="preserve"><g><g><path d="M143.492,221.863L336.226,29.129c6.663-6.664,6.663-17.468,0-24.132c-6.665-6.662-17.468-6.662-24.132,0l-204.8,204.8 c-6.662,6.664-6.662,17.468,0,24.132l204.8,204.8c6.78,6.548,17.584,6.36,24.132-0.42c6.387-6.614,6.387-17.099,0-23.712 L143.492,221.863z"/></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
-      <div class = 'slider' style = 'width: 100%; height: 74%; margin: 13% 0 13% 0'><h4 style="margin-left: 50px" @click="$emit('myEvent', el)" v-for="(el, i) in Filters" :key="i">{{el}}</h4></div>
+      <div class = 'slider' style = 'width: 100%; height: 74%; margin: 13% 0 13% 0'><h4 style="margin-left: 50px" v-for="(el, i) in Filters" :key="i"><div @click="$emit('myEvent', el)" style='display: inline-block; cursor: pointer'>{{el}}</div></h4></div>
       <svg @click='down' class = 'lastSvg' version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 443.52 443.52" style="transform: rotate(-90deg); enable-background:new 0 0 443.52 443.52;" xml:space="preserve"><g><g><path d="M143.492,221.863L336.226,29.129c6.663-6.664,6.663-17.468,0-24.132c-6.665-6.662-17.468-6.662-24.132,0l-204.8,204.8 c-6.662,6.664-6.662,17.468,0,24.132l204.8,204.8c6.78,6.548,17.584,6.36,24.132-0.42c6.387-6.614,6.387-17.099,0-23.712 L143.492,221.863z"/></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
     </div>
     <div class="swiper-container">
@@ -131,7 +131,6 @@ svg{
   width: 280px;
   height: 400px;
   background: linear-gradient(45deg, rgba(14, 17, 24, 0.7) 0%, rgba(29, 32, 37, 0.7) 100%);
-  cursor: pointer;
   font-size: 1.1em;
   display: flex;
   flex-direction: column;
