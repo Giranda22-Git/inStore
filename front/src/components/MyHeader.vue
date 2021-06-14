@@ -34,7 +34,8 @@ a{
 }
 .Header{
     height: 10vh;
-    width: 100%;
+    width: 88%;
+    margin-left: 6%;
     display: flex;
     flex-direction: row;
     align-items: center;
