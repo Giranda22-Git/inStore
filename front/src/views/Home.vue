@@ -107,7 +107,6 @@ input{
   background-color: transparent;
   outline: none;
   border: none;
-  height: 100%;
   width: calc(100% - 35px);
   line-height: 100%;
   font-size: 1em;

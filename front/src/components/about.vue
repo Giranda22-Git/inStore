@@ -6,19 +6,19 @@
         </div>
         <div class="photos">
             <div class="photoItem">
-                <div class="photo"><img src="../assets/sales.png" alt=""></div>
+                <div class="photo"><img style="height: 32px; width: 21px" src="../assets/sales.png" alt=""></div>
                 <div class="text">Скидки до 50%</div>
             </div>
             <div class="photoItem">
-                <div class="photo"><img src="../assets/safety.png" alt=""></div>
+                <div class="photo"><img style="height: 30px; width: 22px" src="../assets/safety.png" alt=""></div>
                 <div class="text">Безопасно</div>
             </div>
             <div class="photoItem">
-                <div class="photo"><img src="../assets/communication.png" alt=""></div>
+                <div class="photo"><img style="height: 30px; width: 27px" src="../assets/communication.png" alt=""></div>
                 <div class="text">Быстрая коммуникация</div>
             </div>
             <div class="photoItem">
-                <div class="photo"><img src="../assets/car.png" alt=""></div>
+                <div class="photo"><img style="height: 32px; width: 29px" src="../assets/car.png" alt=""></div>
                 <div class="text">Доставка{{'\xa0'}}по городу</div>
             </div>
         </div>
@@ -55,10 +55,6 @@
     width: 70px;
     height: 60px;
     text-align: center;
-}
-img{
-    width: 30px;
-    height: 30px;
 }
 .textItem{
     max-width: 500px;

@@ -33,7 +33,7 @@ a{
     text-decoration: none;
 }
 .Header{
-    height: 8vh;
+    height: 10vh;
     width: 100%;
     display: flex;
     flex-direction: row;
