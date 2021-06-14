@@ -88,6 +88,7 @@ export default {
         await axios.get(`${this.$store.state.BackEndUrl}/storage/categories`)
         .then(response => {
           if (response.data !== null) {
+            console.log(response.data);
             this.Filters = response.data
           }
         })
@@ -155,17 +156,6 @@ svg{
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-.size {
-  border: 1px solid #000;
-  padding: 5px 40px 5px 5px;
-  height: 20px;
-  width: 40vw;
-  background: url('../assets/Logo.png') no-repeat 100%;
-  background-size: auto 90%;
-  border: 1px solid #d14711;
-  border-radius: 3px;
-  box-shadow: 0 0 8px rgba(231, 161, 120, 0.5); /* Параметры тени */
 }
 .swiper-container {
     width: 53vw;
